@@ -1,0 +1,4 @@
+repository "geometry_1@gfish94@cloud"
+  path "/"
+    br "/main"
+    co "/main"
